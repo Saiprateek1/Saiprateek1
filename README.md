@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saiprateek1
-- 👀 I’m interested in Business Intelligence & Analytics
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Excel , SQL , Power BI ,Tableau , Python
-- 💞️ I’m looking to collaborate on ??
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me saiprateek1@gmail.com
 
 <!---
